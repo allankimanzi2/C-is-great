@@ -12,3 +12,6 @@ This C program compares **three binary trees** and prints the one with the **hig
 - Count nodes in each tree recursively.
 - Compare node counts across three trees.
 - Output which tree has the highest number of nodes.
+
+Allan Kimanzi
+SCT221-0395/2024
